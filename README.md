@@ -1,1 +1,6 @@
-# Arth-2.o-linux-task
+### LinuxTask [@ARTH2.0](https://rightarth.com/)
+- 1.1 [Explore Zenity command in Linux with various options. ](https://www.linkedin.com/posts/pushpesh-lal-ranjan-893168209_vimaldaga-righteducation-arth2-activity-6846349336511582208-spYh)
+- 1.2 [Explore espeak-ng command in Linux with various options.](https://www.linkedin.com/posts/pushpesh-lal-ranjan-893168209_vimaldaga-righteducation-arth2-activity-6846354501952139265-05kb)
+- 1.3 [Explore RAM & show how data is stored in it when a variable is declared. ](https://www.linkedin.com/feed/update/urn:li:activity:6844482632663785472?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6844482632663785472%2C6847201357456265216%29)
+- 1.4 [Exploring date command with various options.](https://www.linkedin.com/posts/pushpesh-lal-ranjan-893168209_vimaldaga-righteducation-arth2-activity-6846416682446020609-Qf6U)
+- 1.5 [Linux Fun commands.](https://www.linkedin.com/posts/pushpesh-lal-ranjan-893168209_hello-connections-i-have-completed-my-task-activity-6847196880267444224-lcZ4)
